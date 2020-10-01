@@ -1,0 +1,15 @@
+{
+    "name": "lazada.nebulom",
+    "description": "",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Lazada Philippines - Online Shopping & Deals",
+    "hooks": {
+        "lazada": {
+            "apparmor": "lazada.apparmor",
+            "desktop":  "lazada.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Neb <nebulom@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}

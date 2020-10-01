@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Lazada Philippines - Online Shopping & Deals
+Exec=webapp-container --app-id="lazada.nebulom" --store-session-cookies --enable-media-hub-audio --webappUrlPatterns=https://*.lazada.com.ph/* $@ https://www.lazada.com.ph/
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
