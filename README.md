@@ -1,7 +1,5 @@
 # Lazada Philippines - Online Shopping & Deals
 
-A short description of your app
-
 ## License
 
 Copyright (C) 2020  Nebulom
